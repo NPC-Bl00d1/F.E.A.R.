@@ -38,6 +38,12 @@ canvas {
 
 background-color: #cdccde;
 border: solid 5px black;
-border-radius: 10px;
+border-radius: 50px;
+
+}
+
+img{
+
+width:50px;
 
 }
